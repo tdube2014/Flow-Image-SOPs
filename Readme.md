@@ -91,11 +91,11 @@ We have attached a list of supplies as a starting point. Actulal items will vaty
 ### Security Boxes <a name="subparagraph5"></a>
 + Housing that can be locked that contains the camera.
 + Make sure that they are made to fit the Camera you are using.
-+ <img src="Equipment Info/Flow Cam/Images/Camlock box 1.jpg" width="150" height="150"
+<img src="Equipment Info/Flow Cam/Images/Camlock box 1.jpg" width="150" height="150"/>
 
 ### Security Box Lock <a name="subparagraph6"></a>
 + lock to secure camera in the security box.
-+ <img src="Equipment Info/Flow Cam/Images/Master Lock.jpg" width="150" height="150" />
+<img src="Equipment Info/Flow Cam/Images/Master Lock.jpg" width="150" height="150" />
 
 
 ### Security Cable <a name="subparagraph7"></a> 
@@ -111,33 +111,56 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
   <img src="Equipment Info/Flow Cam/Images/Tree strap.jpg" width="150" height="150" />
 </p>
 
-
-+ Strap generaly provided with the camera for securing the unit to a post or tree.
-+ Pro
-  - Cheap
-  - Secure from movement. Angle and line of sight stay consistant.
-+ Con
-  - Not adjustable (cant adjsut angle easily) 
-
-<p align="left">  
-  <img src="Equipment Info/Flow Cam/Images/Tree strap.jpg" width="150" height="150" />
-</p>
++ Strap is provided with the camera for securing the unit to a post or tree.
+  - **PRO** 
+  - Cheap they come with camera generaly very stable.
+  - Hold position well.
+  - Camera harder to notice when strapped to tree.
+  - **CON** 
+  - Not adjustable no ability for adjsuting un or down angle of the camera
+  
+  
  
 + Tree screw
 <p align="left">
   <img src="Equipment Info/Flow Cam/Images/Tree Screw.jpg" width="150" height="150" /> 
 </p>
 
+
++ Tree screw is an additional item that needs to be purchased.
+  - **PRO** 
+  - Many different types.
+  - Hold position well.
+  - Camera harder to notice when strapped to tree.
+  - Some versions allow for up and down angle and left to right adjusrment.
+  - **CON** 
+  - If the version is ajustable, care need to be taken to make sure it is always in the same orientation after maintenace or download.
+  - 
+ 
+
 + Fence T post
 <p align="left">
   <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
 </p> 
 
+  - **PRO** 
+  - Cheap they come with camera generaly very stable.
+  - Hold position well.
+  - Not as visable as other methods.
+  - **CON** 
+  - Cheap They come with Camera Generaly very stable
+  - Hold position well
 + Ground Mount 
 <p align="left">
   <img src="Equipment Info/Flow Cam/Images/Ground Mount.jpg" width="150" height="150" />
 </p>
-
+ - **PRO** 
+  - Cheap they come with camera generaly very stable.
+  - Hold position well.
+  - Not as visable as other methods.
+  - **CON** 
+  - Cheap They come with Camera Generaly very stable
+  - Hold position well
  
 
 
