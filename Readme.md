@@ -171,49 +171,6 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 + Upload to?
 
 
-## **USGS Flow Cam Discharge Data collection** <a name="paragraph3"></a>
 
-
-USGS Flow Cam Discharge Data collection
-
-
-#### Methods
-
-## USGS ECODrought Non Gage Station Images ##
-
-+ Establish a location for for digital flow pictures. 
-+ Install camera so that you can record clear digital photos of the stream in a upstream direction.
-+ Note the angle and line of site of the camera to ensure that it is repositioned to the aproprite placement after maintenance or data download.
-+ Set camera to standard time and to record digital photos every 15 min on the hour so it coincides with pressures transducer data logging..
-+ Download the camera the begining of each month.
-+ Record and check camera settings. Recored battery level. Note any onformation on camera or conditions that may be usefull when QAQC of dat is being performed.
-+ label images?
-+ Upload to?
-+ +Generate a stage discharge rating curve
-
-##  USGS ECODrought Gage Station Images ##
-
-+ Install camera so that you can record clear digital photos of gauge pool including control in a upstream direction. If possiable have photos capture satff gauge height as well.
-+ Single camera setup. All Setups except Avery Brook.
-
-*Single Camera Setup*
-
-<p align="center">
-  <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
-</p>
-
-*Four Camera setup at Avery Brook*
-
-<p align="center">
-  <img src="Equipment Info/Flow Cam/Images/WB 1 camera fix border.png" width="800" title="Avery Brook">
-</p>
-
-+ Note the angle and line of site of the camera to ensure that it is repositioned to the aproprite placement after maintenance or data download.
-+ Set camera to standard time and to record digital photos every 15 min on the hour so it coincides with pressures transducer data logging. 
-+ Download the camera the begining of each month.
-+ Record and check camera settings. Recored battery level. Note any onformation on camera or conditions that may be usefull when QAQC of dat is being performed.
-+ label images?
-+ Upload to?
-+ Generate a stage discharge rating curve.
 
 
