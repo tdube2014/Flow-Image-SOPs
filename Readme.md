@@ -61,7 +61,7 @@ This project will represent a major advancement in how we measure the flow of wa
 
 
 <br>
-We have attached a list of supplies as a starting point, most items the equipment we use. Actulal items will vaty depending on the camera/location you choose and the budget you are working with. The catagories of equipment will likely stay the same. As long as you haver a clear view of the river, the images should be useful.
+We have attached a list of supplies as a starting point. Actulal items will vaty depending on the camera and location you choose, as well as, the budget you are working with. The catagories of equipment will likely stay the same. As long as you haver a clear view of the river, the images should be useful.
 <br>
 <br>
 
@@ -76,38 +76,49 @@ We have attached a list of supplies as a starting point, most items the equipmen
 
 + Trail Cameras that support EXFI data embedded images, this is criticle (most game camera images do). This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images. The exchangeable image file format (EXIF) is a standard for embedding technical metadata in image files that many camera manufacturers use and many image-processing programs support. EXIF metadata can be embedded in TIFF and JPEG images.
 + No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful 
-+ Sd card, blue tooth, WIFI and cellualar models avaliable.
++ SD card, blue tooth, WIFI and cellualar models avaliable.
 + Price from $99 to $599
-+ Camera manufacturers
-  - **Bushnell** This is the camera manufacturer that we use. There are alot of excellent cameras on the market.
-  - Moultrie
-  - Stealth Cam
-  - Many more
+  
 
 
 ### SD Cards <a name="subparagraph3"></a>
-+ Sandisk 32GB
++ Check camera for compatability (32GB-516GB)
 
 
 ### Batteries <a name="subparagraph4"></a>
-+ AA batteries
++ Camera specific. (AA batteries - D batteries)
 
 ### Security Boxes <a name="subparagraph5"></a>
-+ CAMLOCKBOX
++ Housing that can be locked that contains the camera.
++ Make sure that they are made to fit the Camera you are using.
 + <img src="Equipment Info/Flow Cam/Images/Camlock box 1.jpg" width="150" height="150"
 
 ### Security Box Lock <a name="subparagraph6"></a>
-+ Masterlock
++ lock to secure camera in the security box.
 + <img src="Equipment Info/Flow Cam/Images/Master Lock.jpg" width="150" height="150" />
 
 
-### Python Cable <a name="subparagraph7"></a>
+### Security Cable <a name="subparagraph7"></a> 
++ A cable to insure that the camera is not stolen (lockable). This is not the same as the strap that secures the camera to the tree.
 <img src="Equipment Info/Flow Cam/Images/Python Cable.jpg" width="150" height="150" />
 
 ### Camera mounts <a name="subparagraph21"></a>
 There are a variety of way to mount cameras, tree straps, tree screws, Fence T posts and stand alone ground mounts to name a few.
 
-+ Tree Strap 
+#### Tree Strap.
+
+<p align="left">  
+  <img src="Equipment Info/Flow Cam/Images/Tree strap.jpg" width="150" height="150" />
+</p>
+
+
++ Strap generaly provided with the camera for securing the unit to a post or tree.
++ Pro
+  - Cheap
+  - Secure from movement. Angle and line of sight stay consistant.
++ Con
+  - Not adjustable (cant adjsut angle easily) 
+
 <p align="left">  
   <img src="Equipment Info/Flow Cam/Images/Tree strap.jpg" width="150" height="150" />
 </p>
