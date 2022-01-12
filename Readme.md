@@ -26,7 +26,7 @@
     6. [Camera mounts](#subparagraph7)
       
 
-3. [Flow Cam Discharge Data collection](#paragraph2)
+3. [Flow Cam Data collection](#paragraph2)
 
 
  
@@ -117,11 +117,11 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
   - Hold position well.
   - Camera harder to notice when strapped to tree.
   - **CON** 
-  - Not adjustable no ability for adjsuting un or down angle of the camera
+  - Not adjustable, no ability for adjsuting un or down angle of the camera.
   
   
  
-+ Tree screw
+#### Tree screw
 <p align="left">
   <img src="Equipment Info/Flow Cam/Images/Tree Screw.jpg" width="150" height="150" /> 
 </p>
@@ -132,39 +132,53 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
   - Many different types.
   - Hold position well.
   - Camera harder to notice when strapped to tree.
-  - Some versions allow for up and down angle and left to right adjusrment.
+  - Some versions allow for up and down angle and left to right adjustment.
   - **CON** 
   - If the version is ajustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
-  - 
+   
  
 
-+ Fence T post
+#### Fence T post
 <p align="left">
   <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
 </p> 
 
++ Fence T post is and camera mount for T post are additional items that need to be purchased well.
   - **PRO** 
-  - Cheap they come with camera generaly very stable.
-  - Hold position well.
-  - Not as visable as other methods.
+  - Alows for camera to be placed where there are no trees.
+  - Post can be placed exactly where you want it.
+  - Very stable.
+  - Holds position well.
+ 
   - **CON** 
-  - Cheap They come with Camera Generaly very stable
-  - Hold position well
-+ Ground Mount 
+  - Need to purchase a metal fence T post
+  - Easily noticed, stands out.
+  - Hard to install T post in some very rocky river banks.
+  - If the mount is ajustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
+  
+  #### Ground Mount 
 <p align="left">
   <img src="Equipment Info/Flow Cam/Images/Ground Mount.jpg" width="150" height="150" />
 </p>
+
++ Ground Mount an additional item that needs to be purchased. Some come with the Camera mount included.
  - **PRO** 
-  - Cheap they come with camera generaly very stable.
-  - Hold position well.
-  - Not as visable as other methods.
+ - Alows for camera to be placed where there are no trees.
+ - Easy to install.
+ - Hold position well.
+ - Very adjustable.
+ 
+
   - **CON** 
-  - Cheap They come with Camera Generaly very stable
-  - Hold position well
+  - Easily noticed, stands out.
+  - Hard to install in some very rocky river banks.
+  - Hold position well.
+  - Not as stable as a T post setup.
+  - If the mount is ajustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
  
 
 
-## **Flow Cam Discharge Data collection** <a name="paragraph2"></a>
+## **Flow Cam Data collection** <a name="paragraph2"></a>
 
 
 
