@@ -32,17 +32,6 @@
  
     
     
-    
-4. [USGS Flow Cam Discharge Data collection](#paragraph3)
-
-5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
-
-        
-<br>
-<br>
-
-
-
 ## **Introduction** <a name="introduction"></a>
 
 The goals of this project
@@ -90,7 +79,7 @@ We have attached a list of supplies as a starting point. Actulal items will vaty
 
 ### Security Boxes <a name="subparagraph5"></a>
 + Housing that can be locked that contains the camera.
-+ Make sure that they are made to fit the Camera you are using.
++ Make sure that they are made to fit the camera you are using.
 <img src="Equipment Info/Flow Cam/Images/Camlock box 1.jpg" width="150" height="150"/>
 
 ### Security Box Lock <a name="subparagraph6"></a>
@@ -162,11 +151,11 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 </p>
 
 + Ground Mount an additional item that needs to be purchased. Some come with the Camera mount included.
- - **PRO** 
- - Alows for camera to be placed where there are no trees.
- - Easy to install.
- - Hold position well.
- - Very adjustable.
+  - **PRO** 
+  - Alows for camera to be placed where there are no trees.
+  - Easy to install.
+  - Hold position well.
+  - Very adjustable.
  
 
   - **CON** 
@@ -199,12 +188,12 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
 </p>
 
 
-+ Collect digital Photos. images must have EXIF data embedded (most game camera images do. This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images.
-+ flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful is it is a long term record of condition.
++ Collect digital Photos. Images must have EXIF data embedded (most game camera images do). This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images.
++ Flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful as it is a long term record of condition.
 + No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful.
 + Record and check the time zone and daylight savings settings on the game camera at deployment. Most game cameras DO NOT adjust for daylight savings time.
 + Download images and insure that the camera is returned to the same location (angle and line of sight of stream).
-+ label images?
++ You can label images as you like.
 + Upload to?
 
 
