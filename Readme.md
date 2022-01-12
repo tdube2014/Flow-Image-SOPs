@@ -134,7 +134,7 @@ There are a variety of way to mount cameras, tree straps, tree screws, Fence T p
   - Camera harder to notice when strapped to tree.
   - Some versions allow for up and down angle and left to right adjusrment.
   - **CON** 
-  - If the version is ajustable, care need to be taken to make sure it is always in the same orientation after maintenace or download.
+  - If the version is ajustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
   - 
  
 
