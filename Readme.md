@@ -116,7 +116,7 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
 </p>
 
 
-+ Tree screw is an additional item that needs to be purchased.
++ Tree screw is an additional item that needs to be purchased.<br>
    **PROs** 
   - Many different types.
   - Holds position well.
