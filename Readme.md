@@ -117,11 +117,11 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
 
 
 + Tree screw is an additional item that needs to be purchased.
-  - **PROs** 
+   **PROs** 
   - Many different types.
   - Holds position well.
   - Some versions allow for up and down angle and left to right adjustment.
-  - **CONs** 
+   **CONs** 
   - If the version is adjustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
    
  
