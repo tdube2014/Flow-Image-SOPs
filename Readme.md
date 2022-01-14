@@ -187,13 +187,13 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
 </p>
 
 
-+ Collect digital Photos. Images must have EXIF data embedded (most game camera images do). This becomes an issue if you manipulate the files after download, for example, converting the files to another file type or rotating the images.
++ Collect digital Photos. Images must have EXIF data embedded (most game camera images do automatically). It is possible to manipulate the files after download, for example, converting the files to another file type or rotating the images, but most of the time you won't need to do anything about the EXIF data.
 + Flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful as it is a long term record of condition.
-+ No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful.
++ No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful. Most modern game cameras have sufficient resolution.
 + Record and check the time zone and daylight savings settings on the game camera at deployment. Most game cameras DO NOT adjust for daylight savings time.
-+ Download images and insure that the camera is returned to the same location (angle and line of sight of stream).
-+ You can label images as you like.
-+ Upload to?
++ Download images and ensure that the camera is returned to the same location (angle and line of sight of stream). [Todd detail how]
++ For uploading to FPE, image file names do not matter. All the relevant data are obtained from the EXIF data attached to the image. 
++ Upload to the Flow Photo Explorer [https://www.usgs.gov/apps/ecosheds/fpe/]. First create an account, then upload images and stage or flow data if available.
 
 
 
