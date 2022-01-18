@@ -23,7 +23,7 @@
     3. [Batteries](#subparagraph4)
     4. [Security Boxes](#subparagraph5)
     5. [Locks](#subparagraph6)
-    6. [Camera mounts](#subparagraph7)
+    6. [Camera Mounts](#subparagraph7)
       
 
 3. [Flow Cam Data collection](#paragraph2)
@@ -36,11 +36,11 @@
 
 The goals of this project
 <br>
-1. Find a new way of measuring how much water flows in small stream networks using timelapse images captured by inexpensive and off-the-shelf cameras.
+1. Find a new way of measuring how much water flows in small stream networks using time-lapse images captured by inexpensive and off-the-shelf cameras.
 2. Provide a web-based platform for making the images, associated climate and other related data as well as the model itself easy to access and explore. 
 3. Provide an avenue for Citizen Science engagement with the goal of understanding our water resources better.
 <br>
-This project will represent a major advancement in how we measure the flow of water by using machine learning (a form of AI) capable of recognizing and reproducing patterns in large and complex datasets such as long-term image timelapses coupled with detailed environmental data. The results of this work will have considerable value for tracking changes in small streams, which are very important habitat for plants and animals. Stream flow is one of the most important environmental drivers in stream habitats, but we don’t currently have a good way to measure stream flow in small stream networks. This is especially important now as small streams are increasingly affected by climate change via more frequent intense floods and more loss of connectivity due to droughts. Additional challenges are introduced by increasing stream temperatures. A better understanding of flow changes and patterns in small streams will help us evaluate which streams are the most likely to be climate refugia and are the best candidates for management and policies to protect vital aquatic habitats otherwise at risk due to warming and drying. 
+This project will represent a major advancement in how we measure the flow of water by using machine learning (a form of AI) capable of recognizing and reproducing patterns in large and complex datasets such as long-term image time-lapses coupled with detailed environmental data. The results of this work will have considerable value for tracking changes in small streams, which are very important habitat for plants and animals. Stream flow is one of the most important environmental drivers in stream habitats, but we don’t currently have a good way to measure stream flow in small stream networks. This is especially important now as small streams are increasingly affected by climate change via more frequent intense floods and more loss of connectivity due to droughts. Additional challenges are introduced by increasing stream temperatures. A better understanding of flow changes and patterns in small streams will help us evaluate which streams are the most likely to be climate refugia and are the best candidates for management and policies to protect vital aquatic habitats otherwise at risk due to warming and drying. 
 
 
 ## **Equipment** <a name="paragraph1"></a>
@@ -65,13 +65,13 @@ We have attached a list of supplies as a starting point. Actual items will vary 
 
 + Trail Cameras that support EXFI data embedded images (most game camera images do). The exchangeable image file format (EXIF) is a standard for embedding technical metadata in image files that many camera manufacturers use and many image-processing programs support. EXIF metadata are commonly embedded in TIFF and JPEG images.
 + No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful.
-+ SD card, blue tooth, WIFI and cellualar models available.
++ SD card, blue tooth, WIFI and cellular models available.
 + Price from $99 to $599
   
 
 
 ### SD Cards <a name="subparagraph3"></a>
-+ Check camera for compatability (32GB-516GB)
++ Check camera for compatibility (32GB-516GB)
 
 
 ### Batteries <a name="subparagraph4"></a>
@@ -91,8 +91,8 @@ We have attached a list of supplies as a starting point. Actual items will vary 
 + A cable to prevent theft (lockable). This is not the same as the strap that secures the camera to the tree.
 <img src="Equipment Info/Flow Cam/Images/Python Cable.jpg" width="150" height="150" />
 
-### Camera mounts <a name="subparagraph21"></a>
-There are a variety of ways to mount cameras; tree straps, tree screws, Fence T posts and stand alone ground mounts to name a few.
+### Camera Mounts <a name="subparagraph21"></a>
+There are a variety of ways to mount cameras; tree straps, tree screws, Fence T posts and stand-alone ground mounts to name a few.
 
 #### Tree Strap.
 
@@ -100,29 +100,33 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
   <img src="Equipment Info/Flow Cam/Images/Tree strap.jpg" width="150" height="150" />
 </p>
 
-+ Strap is provided with the camera for securing the unit to a post or tree.
++ Strap is provided with the camera for securing the unit to a post or tree.<br>
    **PROs** 
   - Cheap, they come with camera, generally very stable.
   - Hold position well.
-  - Camera harder to notice when strapped to tree.
+  - Camera harder to notice when strapped to tree.<br>
+
+
    **CONs** 
-  - Not adjustable, no ability for adjsuting up or down angle of the camera.
+  - Not adjustable, no ability for adjusting up or down angle of the camera.
   
   
  
-#### Tree screw
+#### Tree Screw
 <p align="left">
   <img src="Equipment Info/Flow Cam/Images/Tree Screw.jpg" width="150" height="150" /> 
 </p>
 
 
-+ Tree screw is an additional item that needs to be purchased.<br>
++ Tree screw is an additional item that needs to be purchased. <br>
    **PROs** 
   - Many different types.
   - Holds position well.
   - Some versions allow for up and down angle and left to right adjustment.<br>
+
+
    **CONs** 
-  - If the version is adjustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
+  - If the version is adjustable, care needs to be taken to make sure it is always in the same orientation after maintenance or download.
    
  
 
@@ -131,17 +135,19 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
   <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
 </p> 
 
-+ Fence T post and camera mount for T post are additional items that need to be purchased.<br>
++ Fence T post and camera mount for T post are additional items that need to be purchased. <br>
    **PROs** 
   - Allows for camera to be placed where there are no trees.
   - Post can be placed exactly where you want it.
   - Very stable.
   - Holds position well.<br>
+
+
    **CONs** 
   - Need to purchase a metal fence T post.
   - Easily noticed, stands out.
-  - Hard to install T post in some rocky river banks.
-  - If the mount is adjustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
+  - Hard to install T post in some rocky riverbanks.
+  - If the mount is adjustable, care needs to be taken to make sure it is always in the same orientation after maintenance or download.
   
   #### Ground Mount 
 <p align="left">
@@ -150,16 +156,18 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
 
 + Ground Mount an additional item that needs to be purchased. Some come with the camera mount included.<br>
    **PROs** 
-  - Alows for camera to be placed where there are no trees.
+  - Allows for camera to be placed where there are no trees.
   - Easy to install.
   - Hold position well.
   - Very adjustable.<br>
+
+
    **CONs** 
   - Easily noticed, stands out.
-  - Hard to install in some rocky river banks.
+  - Hard to install in some rocky riverbanks.
   - Holds position well.
   - Not as stable as a T post setup.
-  - If the mount is adjustable, care needs to be taken to make sure it is always in the same orientation after maintenace or download.
+  - If the mount is adjustable, care needs to be taken to make sure it is always in the same orientation after maintenance or download.
  
 
 
@@ -169,11 +177,11 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
 
 #### Methods
 
-+ Any size river is useful, although we are mostly targetting headwaters (3rd order and smaller).
++ Any size river is useful, although we are mostly targeting headwaters (3rd order and smaller).
 + Establish a location for digital flow collection.
 + Install camera so that you can record clear digital photos of the river in an upstream direction.
 
-*we are currently working on images from diferent angles to see what provides the best data*
+*we are currently working on images from different angles to see what provides the best data*
 <br>
 <br>
 
@@ -185,12 +193,13 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
 
 
 + Collect digital Photos. Images must have EXIF data embedded (most game camera images do automatically). It is possible to manipulate the files after download, for example, converting the files to another file type or rotating the images, but most of the time you won't need to do anything about the EXIF data.
-+ Flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful (longer than weekly is helpful as it is a long term record of condition.
++ Flow and image data at any timestep is useful. Data increments ranging from 15-minute to weekly are especially useful, longer than weekly is helpful as it is a long-term record of condition.
 + No resolution requirement. As long as you can see if the stage is high, medium or low, the images are useful. Most modern game cameras have sufficient resolution.
 + Record and check the time zone and daylight savings settings on the game camera at deployment. Most game cameras DO NOT adjust for daylight savings time.
-+ Download images and ensure that the camera is returned to the same location (angle and line of sight of stream). [Todd detail how]
++ Download images and ensure that the camera is returned to the same location (angle and line of sight of stream). To ensure consistent camera placement, mark and record the position of the camera. This can be done by making reference points on the camera mounts, trees, posts or any item you use to secure the camera installation. Photos are a very useful reference in this regard.
 + For uploading to FPE, image file names do not matter. All the relevant data are obtained from the EXIF data attached to the image. 
 + Upload to the Flow Photo Explorer [https://www.usgs.gov/apps/ecosheds/fpe/]. First create an account, then upload images and stage or flow data if available.
+
 
 
 
