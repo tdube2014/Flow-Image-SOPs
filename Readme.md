@@ -101,11 +101,11 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
 </p>
 
 + Strap is provided with the camera for securing the unit to a post or tree.
-  - **PROs** 
+   **PROs** 
   - Cheap, they come with camera, generally very stable.
   - Hold position well.
   - Camera harder to notice when strapped to tree.
-  - **CONs** 
+   **CONs** 
   - Not adjustable, no ability for adjsuting up or down angle of the camera.
   
   
@@ -131,14 +131,13 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
   <img src="Equipment Info/Flow Cam/Images/T post bracket.jpg" width="150" height="150" /> 
 </p> 
 
-+ Fence T post and camera mount for T post are additional items that need to be purchased.
-  - **PROs** 
++ Fence T post and camera mount for T post are additional items that need to be purchased.<br>
+   **PROs** 
   - Allows for camera to be placed where there are no trees.
   - Post can be placed exactly where you want it.
   - Very stable.
-  - Holds position well.
- 
-  - **CONs** 
+  - Holds position well.<br>
+   **CONs** 
   - Need to purchase a metal fence T post.
   - Easily noticed, stands out.
   - Hard to install T post in some rocky river banks.
@@ -149,15 +148,13 @@ There are a variety of ways to mount cameras; tree straps, tree screws, Fence T 
   <img src="Equipment Info/Flow Cam/Images/Ground Mount.jpg" width="150" height="150" />
 </p>
 
-+ Ground Mount an additional item that needs to be purchased. Some come with the camera mount included.
-  - **PROs** 
++ Ground Mount an additional item that needs to be purchased. Some come with the camera mount included.<br>
+   **PROs** 
   - Alows for camera to be placed where there are no trees.
   - Easy to install.
   - Hold position well.
-  - Very adjustable.
- 
-
-  - **CONs** 
+  - Very adjustable.<br>
+   **CONs** 
   - Easily noticed, stands out.
   - Hard to install in some rocky river banks.
   - Holds position well.
